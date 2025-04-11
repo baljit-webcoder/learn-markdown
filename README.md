@@ -4,7 +4,7 @@ Welcome! This repository is a personal and public roadmap to learn Markdown from
 
 > “You don’t need to go fast. You just need to begin.”
 
-## 🚀 What This Repo Includes
+## 🚀 What This Repository Includes
 - ✅ A full 6-week Markdown roadmap
 - 🧱 Practice files week-by-week
 - 📝 Real-world tasks: README, cheatsheets, journals
